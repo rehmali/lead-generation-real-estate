@@ -1,0 +1,17 @@
+{
+  "name": "lead-generation-landing-page",
+  "version": "1.0.0",
+  "description": "Lead Generation Landing Page for a Real Estate Company",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "Rehm Ali",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "bootstrap": "^5.3.3",
+    "sass": "^1.81.0"
+  }
+}
